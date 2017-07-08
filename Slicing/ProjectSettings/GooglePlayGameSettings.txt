@@ -1,0 +1,9 @@
+lastUpgrade=00939
+proj.pluginVersion=0.9.39
+proj.AppId=365802131627
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e365802131627%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Assassins.Slice%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_power_slice%22%3eCgkIq6GG3NIKEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_power_master%22%3eCgkIq6GG3NIKEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_perfect_slice%22%3eCgkIq6GG3NIKEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_perfect_master%22%3eCgkIq6GG3NIKEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_youngling%22%3eCgkIq6GG3NIKEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_padawan%22%3eCgkIq6GG3NIKEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_knight%22%3eCgkIq6GG3NIKEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_master%22%3eCgkIq6GG3NIKEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_grand_master%22%3eCgkIq6GG3NIKEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_highscores%22%3eCgkIq6GG3NIKEAIQAg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
+and.BundleId=com.Assassins.Slice
